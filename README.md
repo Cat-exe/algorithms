@@ -1,2 +1,1 @@
-# algorithms
-for cisc 3220
+yes
